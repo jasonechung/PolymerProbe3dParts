@@ -8,8 +8,9 @@
 - Alignment.stl: Placed onto the StiffenerInserter while the polymer probe stiffener is being aligned and glued to the StiffenerInserter. Removed before sterilization
 
 #Post-insertion implant and probe housing parts
-- BaseExample1.stl: Base piece to be affixed to skull designed for targeting of left hippocampus and bilateral medial prefrontal cortex in a rat
-- BaseExample2.stl: Base piece to be affixed to skull designed for targeting of bilateral hippocampus and bilateral OFC in a rat
+- BaseExample1.stl: Base piece to be affixed to skull designed for targeting of left hippocampus and bilateral medial prefrontal cortex in rat
+- BaseExample2.stl: Base piece to be affixed to skull designed for targeting of bilateral hippocampus and bilateral OFC in rat
+- BaseExample3.stl: Base piece to be affixed to skull designed for targeting of bilateral medial prefrontal cortex in rat
 - HousingLeft_1.stl: Example piece designed to enclose the left half of BaseExample2 (bilateral hippocampus, bilateral OFC). Designed to fit loosely, house polymer probe ribbons with silicone fill. Requires acrylic or other adhesive to be affixed to base piece and skull. 
 - HousingRight_1.stl: Example piece designed to enclose the right half of BaseExample2 (bilateral hippocampus, bilateral OFC). Designed to fit loosely, house polymer probe ribbons with silicone fill. Requires acrylic or other adhesive to be affixed to base piece and skull. 
 - HousingLeft_2.stl: Example piece for implant construction, designed to attach to HousingLeft_1 and HousingRight_2, covered with HousingCap
